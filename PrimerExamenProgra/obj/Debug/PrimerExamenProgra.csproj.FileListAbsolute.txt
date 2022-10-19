@@ -1,0 +1,8 @@
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\bin\Debug\PrimerExamenProgra.exe.config
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\bin\Debug\PrimerExamenProgra.exe
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\bin\Debug\PrimerExamenProgra.pdb
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\obj\Debug\PrimerExamenProgra.csproj.AssemblyReference.cache
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\obj\Debug\PrimerExamenProgra.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\obj\Debug\PrimerExamenProgra.csproj.CoreCompileInputs.cache
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\obj\Debug\PrimerExamenProgra.exe
+C:\Users\ilanc\source\repos\PrimerExamenProgra\PrimerExamenProgra\obj\Debug\PrimerExamenProgra.pdb
